@@ -1,0 +1,55 @@
+{"timestamp":1558103366289,"message":"[fxdriver.badCertListener] Found preference for webdriver_assume_untrusted_issuer: true","level":"INFO"}
+{"timestamp":1558103366290,"message":"[fxdriver.badCertListener] Found preference for webdriver_accept_untrusted_certs: true","level":"INFO"}
+{"timestamp":1558103366290,"message":"[fxdriver.WdCertOverrideService] Accept untrusted certificates: true","level":"INFO"}
+{"timestamp":1558103366379,"message":"[fxdriver.Utils] Loading: resource://fxdriver/evaluate.js","level":"INFO"}
+{"timestamp":1558103366380,"message":"[fxdriver.Utils] Done reading: resource://fxdriver/evaluate.js","level":"INFO"}
+{"timestamp":1558103366519,"message":"[fxdriver.ServerFactory] Driven by WebDriver version 2.53.1","level":"INFO"}
+{"timestamp":1558103366608,"message":"[fxdriver.nsCommandProcessor] Received command: newSession","level":"INFO"}
+{"timestamp":1558103366662,"message":"[fxdriver.wdSessionStoreService] Setting preferences based on required capabilities","level":"INFO"}
+{"timestamp":1558103366663,"message":"[fxdriver.nsCommandProcessor] Created a new session with id: 9eb18fea-abc8-41e0-ab9e-441f051b6df7","level":"INFO"}
+{"timestamp":1558103367230,"message":"[fxdriver.nsCommandProcessor] Received command: executeScript","level":"INFO"}
+{"timestamp":1558103367250,"message":"[fxdriver.nsCommandProcessor] Received command: executeScript","level":"INFO"}
+{"timestamp":1558103367278,"message":"[fxdriver.nsCommandProcessor] Received command: setWindowPosition","level":"INFO"}
+{"timestamp":1558103367295,"message":"[fxdriver.nsCommandProcessor] Received command: setWindowSize","level":"INFO"}
+{"timestamp":1558103367327,"message":"[fxdriver.nsCommandProcessor] Received command: maximizeWindow","level":"INFO"}
+{"timestamp":1558103367341,"message":"[fxdriver.nsCommandProcessor] Received command: getWindowHandles","level":"INFO"}
+{"timestamp":1558103368266,"message":"[fxdriver.nsCommandProcessor] Received command: get","level":"INFO"}
+{"timestamp":1558103368266,"message":"[fxdriver.wdSession] setWaitForPageLoad false","level":"INFO"}
+{"timestamp":1558103368268,"message":"[fxdriver.wdSession] setWaitForPageLoad true","level":"INFO"}
+{"timestamp":1558103368323,"message":"[fxdriver.PatientListener] request status is 2152398878","level":"INFO"}
+{"timestamp":1558103368876,"message":"[fxdriver.nsCommandProcessor] Received command: getTitle","level":"INFO"}
+{"timestamp":1558103368878,"message":"[fxdriver.wdSession] Lost DOM in window undefined","level":"SEVERE"}
+{"timestamp":1558103369664,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103370362,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103370850,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103371331,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103371812,"message":"[fxdriver.nsCommandProcessor] Received command: get","level":"INFO"}
+{"timestamp":1558103371813,"message":"[fxdriver.wdSession] setWaitForPageLoad false","level":"INFO"}
+{"timestamp":1558103371814,"message":"[fxdriver.wdSession] setWaitForPageLoad true","level":"INFO"}
+{"timestamp":1558103371836,"message":"[fxdriver.PatientListener] request status is 2152398878","level":"INFO"}
+{"timestamp":1558103372373,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103372374,"message":"[fxdriver.wdSession] Lost DOM in window undefined","level":"SEVERE"}
+{"timestamp":1558103372880,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103373372,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103373898,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103374399,"message":"[fxdriver.nsCommandProcessor] Received command: get","level":"INFO"}
+{"timestamp":1558103374400,"message":"[fxdriver.wdSession] setWaitForPageLoad false","level":"INFO"}
+{"timestamp":1558103374402,"message":"[fxdriver.wdSession] setWaitForPageLoad true","level":"INFO"}
+{"timestamp":1558103374428,"message":"[fxdriver.PatientListener] request status is 2152398878","level":"INFO"}
+{"timestamp":1558103374871,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103374872,"message":"[fxdriver.wdSession] Lost DOM in window undefined","level":"SEVERE"}
+{"timestamp":1558103375364,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103375875,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103376363,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103376871,"message":"[fxdriver.nsCommandProcessor] Received command: get","level":"INFO"}
+{"timestamp":1558103376872,"message":"[fxdriver.wdSession] setWaitForPageLoad false","level":"INFO"}
+{"timestamp":1558103376873,"message":"[fxdriver.wdSession] setWaitForPageLoad true","level":"INFO"}
+{"timestamp":1558103376903,"message":"[fxdriver.PatientListener] request status is 2152398878","level":"INFO"}
+{"timestamp":1558103377382,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103377383,"message":"[fxdriver.wdSession] Lost DOM in window undefined","level":"SEVERE"}
+{"timestamp":1558103377875,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103378439,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103378877,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103379393,"message":"[fxdriver.nsCommandProcessor] Received command: getAvailableLogTypes","level":"INFO"}
+{"timestamp":1558103379618,"message":"[fxdriver.nsCommandProcessor] Received command: getLog","level":"INFO"}
+{"timestamp":1558103379966,"message":"[fxdriver.nsCommandProcessor] Received command: getLog","level":"INFO"}

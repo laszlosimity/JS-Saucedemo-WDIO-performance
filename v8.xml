@@ -1,0 +1,131 @@
+<hierarchy index="0" class="hierarchy" rotation="0" width="1080" height="1920">
+   <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" foc
+usable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1080,1920]" displayed="true">
+     <android.widget.LinearLayout index="0" package="com.android.chrome" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true"
+ focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1080,1920]" displayed="true">
+       <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true"
+ focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]" displayed="true">
+         <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/action_bar_root" checkable="f
+alse" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][108
+0,1920]" displayed="true">
+           <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="fa
+lse" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]" displaye
+d="true">
+             <android.view.ViewGroup index="0" package="com.android.chrome" class="android.view.ViewGroup" text="" resource-id="com.android.chrome:id/coordinator" checkable="false" ch
+ecked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]"
+ displayed="true">
+               <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/compositor_view_holder"
+ checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bound
+s="[0,72][1080,1920]" displayed="true">
+                 <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enab
+led="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]" displayed="true">
+                   <android.webkit.WebView index="0" package="com.android.chrome" class="android.webkit.WebView" text="Swag Labs" checkable="false" checked="false" clickable="false" e
+nabled="true" focusable="true" focused="true" long-clickable="false" password="false" scrollable="true" selected="false" bounds="[0,240][1080,1920]" displayed="true">
+                     <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true" foc
+usable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[149,372][930,712]" displayed="true">
+                       <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="" resource-id="login_button_container" checkable="false" checked="fals
+e" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,390][526,620]" displayed
+="true">
+                         <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true"
+ focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,424][526,620]" displayed="true">
+                           <android.widget.EditText index="0" package="com.android.chrome" class="android.widget.EditText" text="" resource-id="user-name" checkable="false" checked="f
+alse" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,424][526,470]" displaye
+d="true" />
+                           <android.widget.EditText index="1" package="com.android.chrome" class="android.widget.EditText" text="" resource-id="password" checkable="false" checked="fa
+lse" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="true" scrollable="false" selected="false" bounds="[185,497][526,544]" displayed=
+"true" />
+                           <android.widget.Button index="2" package="com.android.chrome" class="android.widget.Button" text="LOGIN" checkable="false" checked="false" clickable="true"
+enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,571][283,620]" displayed="true" />
+                         </android.view.View>
+                       </android.view.View>
+                     </android.view.View>
+                     <android.view.View index="1" package="com.android.chrome" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true" foc
+usable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[149,712][930,940]" displayed="true">
+                       <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="" resource-id="login_credentials" checkable="false" checked="false" cl
+ickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,731][526,905]" displayed="tru
+e">
+                         <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="Accepted usernames are:" checkable="false" checked="false" clickable
+="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,751][526,778]" displayed="true" />
+                         <android.view.View index="1" package="com.android.chrome" class="android.view.View" text="standard_user" checkable="false" checked="false" clickable="false" e
+nabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,802][283,821]" displayed="true" />
+                         <android.view.View index="2" package="com.android.chrome" class="android.view.View" text="&#10;" checkable="false" checked="false" clickable="false" enabled="
+true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[220,817][562,991]" displayed="true" />
+                         <android.view.View index="3" package="com.android.chrome" class="android.view.View" text="locked_out_user" checkable="false" checked="false" clickable="false"
+ enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,828][297,848]" displayed="true" />
+                         <android.view.View index="4" package="com.android.chrome" class="android.view.View" text="&#10;" checkable="false" checked="false" clickable="false" enabled="
+true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[220,817][562,991]" displayed="true" />
+               [0-0]           <android.view.View index="5" package="com.android.chrome" class="android.view.View" text="problem_user" checkable="false" checked="false" clickable="fal
+se" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,854][278,874]" displayed="true" />
+                         <android.view.View index="6" package="com.android.chrome" class="android.view.View" text="&#10;" checkable="false" checked="false" clickable="false" enabled="
+true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[220,817][562,991]" displayed="true" />
+                         <android.view.View index="7" package="com.android.chrome" class="android.view.View" text="performance_glitch_user" checkable="false" checked="false" clickable
+="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[185,881][355,901]" displayed="true" />
+                         <android.view.View index="8" package="com.android.chrome" class="android.view.View" text="&#10;" checkable="false" checked="false" clickable="false" enabled="
+true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[220,817][562,991]" displayed="true" />
+                       </android.view.View>
+                       <android.view.View index="1" package="com.android.chrome" class="android.view.View" text="Password for all users:" checkable="false" checked="false" clickable="
+false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[553,751][894,770]" displayed="true" />
+                       <android.view.View index="2" package="com.android.chrome" class="android.view.View" text="secret_sauce" checkable="false" checked="false" clickable="false" enab
+led="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[553,789][645,808]" displayed="true" />
+                     </android.view.View>
+                   </android.webkit.WebView>
+                 </android.widget.FrameLayout>
+                 <android.widget.FrameLayout index="1" package="com.android.chrome" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enab
+led="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]" displayed="true">
+                   <android.view.View index="0" package="com.android.chrome" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true" focus
+able="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1080,1920]" displayed="true" />
+                 </android.widget.FrameLayout>
+               </android.widget.FrameLayout>
+               <android.widget.FrameLayout index="1" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/control_container" chec
+kable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0
+,72][1080,264]" displayed="true">
+                 <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/toolbar_container" ch
+eckable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="
+[0,72][1080,264]" displayed="true">
+                   <android.widget.FrameLayout index="0" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/toolbar" checkable=
+"false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,72][1
+080,240]" displayed="true">
+                     <android.widget.ImageButton index="0" package="com.android.chrome" class="android.widget.ImageButton" text="" content-desc="Home" resource-id="com.android.chrome:
+id/home_button" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="true" password="false" scrollable="false" selected="
+false" bounds="[0,72][144,240]" displayed="true" />
+                     <android.widget.FrameLayout index="1" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/location_bar" che
+ckable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[
+144,72][792,240]" displayed="true">
+                       <android.widget.LinearLayout index="0" package="com.android.chrome" class="android.widget.LinearLayout" text="" resource-id="com.android.chrome:id/location_bar_
+status" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false
+" bounds="[174,72][258,240]" displayed="true">
+                         <android.widget.ImageButton index="0" package="com.android.chrome" class="android.widget.ImageButton" text="" content-desc="Connection is secure. Site informa
+tion" resource-id="com.android.chrome:id/location_bar_status_icon" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="t
+rue" password="false" scrollable="false" selected="false" bounds="[174,72][258,240]" displayed="true" />
+                       </android.widget.LinearLayout>
+                       <android.widget.EditText index="1" package="com.android.chrome" class="android.widget.EditText" text="https://www.saucedemo.com" resource-id="com.android.chrome
+:id/url_bar" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="true" password="false" scrollable="false" selected="fal
+se" bounds="[258,81][762,231]" displayed="true" />
+                     </android.widget.FrameLayout>
+                     <android.widget.LinearLayout index="2" package="com.android.chrome" class="android.widget.LinearLayout" text="" resource-id="com.android.chrome:id/toolbar_buttons
+" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" boun
+ds="[792,72][1080,240]" displayed="true">
+                       <android.widget.ImageButton index="0" package="com.android.chrome" class="android.widget.ImageButton" text="" content-desc="1 open tab, tap to switch tabs" reso
+urce-id="com.android.chrome:id/tab_switcher_button" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="true" password="
+false" scrollable="false" selected="false" bounds="[792,72][936,240]" displayed="true" />
+                       <android.widget.FrameLayout index="1" package="com.android.chrome" class="android.widget.FrameLayout" text="" resource-id="com.android.chrome:id/menu_button_wra
+pper" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false"
+bounds="[936,72][1080,240]" displayed="true">
+                         <android.widget.ImageButton index="0" package="com.android.chrome" class="android.widget.ImageButton" text="" content-desc="More options" resource-id="com.and
+roid.chrome:id/menu_button" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="fals
+e" selected="false" bounds="[936,72][1080,240]" displayed="tr[0-0] ue" />
+                       </android.widget.FrameLayout>
+                     </android.widget.LinearLayout>
+                   </android.widget.FrameLayout>
+                   <android.widget.ImageView index="1" package="com.android.chrome" class="android.widget.ImageView" text="" resource-id="com.android.chrome:id/toolbar_shadow" checkab
+le="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,24
+0][1080,264]" displayed="true" />
+                 </android.widget.FrameLayout>
+               </android.widget.FrameLayout>
+             </android.view.ViewGroup>
+           </android.widget.FrameLayout>
+         </android.widget.FrameLayout>
+       </android.widget.FrameLayout>
+     </android.widget.LinearLayout>
+   </android.widget.FrameLayout>
+</hierarchy>

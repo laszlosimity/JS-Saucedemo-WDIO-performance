@@ -1,0 +1,32 @@
+{"timestamp":1558103365268,"message":"[fxdriver.badCertListener] Found preference for webdriver_assume_untrusted_issuer: true","level":"INFO"}
+{"timestamp":1558103365269,"message":"[fxdriver.badCertListener] Found preference for webdriver_accept_untrusted_certs: true","level":"INFO"}
+{"timestamp":1558103365269,"message":"[fxdriver.WdCertOverrideService] Accept untrusted certificates: true","level":"INFO"}
+{"timestamp":1558103365355,"message":"[fxdriver.Utils] Loading: resource://fxdriver/evaluate.js","level":"INFO"}
+{"timestamp":1558103365356,"message":"[fxdriver.Utils] Done reading: resource://fxdriver/evaluate.js","level":"INFO"}
+{"timestamp":1558103365494,"message":"[fxdriver.ServerFactory] Driven by WebDriver version 2.53.1","level":"INFO"}
+{"timestamp":1558103365686,"message":"[fxdriver.nsCommandProcessor] Received command: newSession","level":"INFO"}
+{"timestamp":1558103365743,"message":"[fxdriver.wdSessionStoreService] Setting preferences based on required capabilities","level":"INFO"}
+{"timestamp":1558103365745,"message":"[fxdriver.nsCommandProcessor] Created a new session with id: ac7b3170-e350-4657-b8cf-4a08ff3236ed","level":"INFO"}
+{"timestamp":1558103366101,"message":"[fxdriver.nsCommandProcessor] Received command: executeScript","level":"INFO"}
+{"timestamp":1558103366117,"message":"[fxdriver.nsCommandProcessor] Received command: executeScript","level":"INFO"}
+{"timestamp":1558103366137,"message":"[fxdriver.nsCommandProcessor] Received command: setWindowPosition","level":"INFO"}
+{"timestamp":1558103366150,"message":"[fxdriver.nsCommandProcessor] Received command: setWindowSize","level":"INFO"}
+{"timestamp":1558103366176,"message":"[fxdriver.nsCommandProcessor] Received command: maximizeWindow","level":"INFO"}
+{"timestamp":1558103366191,"message":"[fxdriver.nsCommandProcessor] Received command: getWindowHandles","level":"INFO"}
+{"timestamp":1558103367587,"message":"[fxdriver.nsCommandProcessor] Received command: get","level":"INFO"}
+{"timestamp":1558103367588,"message":"[fxdriver.wdSession] setWaitForPageLoad false","level":"INFO"}
+{"timestamp":1558103367589,"message":"[fxdriver.wdSession] setWaitForPageLoad true","level":"INFO"}
+{"timestamp":1558103367642,"message":"[fxdriver.PatientListener] request status is 2152398878","level":"INFO"}
+{"timestamp":1558103368196,"message":"[fxdriver.nsCommandProcessor] Received command: getTitle","level":"INFO"}
+{"timestamp":1558103368196,"message":"[fxdriver.wdSession] Lost DOM in window undefined","level":"SEVERE"}
+{"timestamp":1558103368431,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103369139,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103369659,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103370143,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103370642,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103371126,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103372029,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103372473,"message":"[fxdriver.nsCommandProcessor] Received command: findElement","level":"INFO"}
+{"timestamp":1558103372946,"message":"[fxdriver.nsCommandProcessor] Received command: getAvailableLogTypes","level":"INFO"}
+{"timestamp":1558103373213,"message":"[fxdriver.nsCommandProcessor] Received command: getLog","level":"INFO"}
+{"timestamp":1558103373595,"message":"[fxdriver.nsCommandProcessor] Received command: getLog","level":"INFO"}

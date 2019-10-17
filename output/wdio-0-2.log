@@ -1,0 +1,72 @@
+2019-05-17T14:34:48.997Z INFO @wdio/local-runner: Run worker command: run
+2019-05-17T14:34:49.050Z DEBUG @wdio/local-runner:utils: init remote session
+2019-05-17T14:34:49.094Z INFO webdriver: [POST] http://127.0.0.1:80/wd/hub/session
+2019-05-17T14:34:49.094Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch:
+      { browserName: 'chrome',
+        platform: 'Linux',
+        version: 'latest',
+        username: 'laszlo.simity',
+        accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' },
+     firstMatch: [ {} ] },
+  desiredCapabilities:
+   { browserName: 'chrome',
+     platform: 'Linux',
+     version: 'latest',
+     username: 'laszlo.simity',
+     accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' } }
+2019-05-17T14:34:49.114Z WARN webdriver: Request failed due to connect ECONNREFUSED 127.0.0.1:80
+2019-05-17T14:34:49.114Z INFO webdriver: Retrying 1/3
+2019-05-17T14:34:49.114Z INFO webdriver: [POST] http://127.0.0.1:80/wd/hub/session
+2019-05-17T14:34:49.114Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch:
+      { browserName: 'chrome',
+        platform: 'Linux',
+        version: 'latest',
+        username: 'laszlo.simity',
+        accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' },
+     firstMatch: [ {} ] },
+  desiredCapabilities:
+   { browserName: 'chrome',
+     platform: 'Linux',
+     version: 'latest',
+     username: 'laszlo.simity',
+     accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' } }
+2019-05-17T14:34:49.117Z WARN webdriver: Request failed due to connect ECONNREFUSED 127.0.0.1:80
+2019-05-17T14:34:49.117Z INFO webdriver: Retrying 2/3
+2019-05-17T14:34:49.117Z INFO webdriver: [POST] http://127.0.0.1:80/wd/hub/session
+2019-05-17T14:34:49.117Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch:
+      { browserName: 'chrome',
+        platform: 'Linux',
+        version: 'latest',
+        username: 'laszlo.simity',
+        accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' },
+     firstMatch: [ {} ] },
+  desiredCapabilities:
+   { browserName: 'chrome',
+     platform: 'Linux',
+     version: 'latest',
+     username: 'laszlo.simity',
+     accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' } }
+2019-05-17T14:34:49.119Z WARN webdriver: Request failed due to connect ECONNREFUSED 127.0.0.1:80
+2019-05-17T14:34:49.119Z INFO webdriver: Retrying 3/3
+2019-05-17T14:34:49.119Z INFO webdriver: [POST] http://127.0.0.1:80/wd/hub/session
+2019-05-17T14:34:49.119Z INFO webdriver: DATA { capabilities:
+   { alwaysMatch:
+      { browserName: 'chrome',
+        platform: 'Linux',
+        version: 'latest',
+        username: 'laszlo.simity',
+        accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' },
+     firstMatch: [ {} ] },
+  desiredCapabilities:
+   { browserName: 'chrome',
+     platform: 'Linux',
+     version: 'latest',
+     username: 'laszlo.simity',
+     accesskey: '9fad5997-7a30-44e8-a2ea-39279f41041a' } }
+2019-05-17T14:34:49.121Z ERROR webdriver: Request failed due to Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)
+2019-05-17T14:34:49.121Z ERROR @wdio/runner: Error: connect ECONNREFUSED 127.0.0.1:80
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)
