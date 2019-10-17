@@ -233,6 +233,12 @@ exports.config = {
      */
     // after: function (result, capabilities, specs) {
     // },
+
+    afterTest: function (test) {
+
+        console.log('SauceOnDemandSessionID=' + browser.sessionId);
+    },
+
     /**
      * Gets executed right after terminating the webdriver session.
      * @param {Object} config wdio configuration object
